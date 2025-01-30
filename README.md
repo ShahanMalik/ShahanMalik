@@ -58,7 +58,7 @@
 
 ## 🌍 Connect with Me  
 <p align="center">
-  <a href="https://github.com/HarshAndroid"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/ShahanMalik"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="[https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/shahan-malik-8ba6b5253)"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:shahanmalikkhan@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://twitter.com"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
