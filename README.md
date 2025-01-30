@@ -9,7 +9,7 @@
 - 🌱 Currently exploring AI & LLMs  
 - 🤝 Open to collaborating on exciting projects  
 - 💬 Ask me about Flutter, Mobile App Development, or AI  
-- 📫 Reach me via [social links below](https://www.linkedin.com/in/shahan-malik-8ba6b5253)  
+- 📫 Reach me via [Linkedin](https://www.linkedin.com/in/shahan-malik-8ba6b5253)  
 
 ---
 
