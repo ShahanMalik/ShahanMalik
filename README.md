@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-I am a Computer Science student exploring AI and Flutter development. I'm open to collaborating on exciting projects—feel free to reach out on [LinkedIn](https://www.linkedin.com/in/shahan-malik-8ba6b5253)!
+### I am a Computer Science student exploring AI and Flutter development. I'm open to collaborating on exciting projects—feel free to reach out on [LinkedIn](https://www.linkedin.com/in/shahan-malik-8ba6b5253)!
 - 
 ---
 
