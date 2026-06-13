@@ -30,12 +30,28 @@ Computer Science graduate focused on Flutter development and AI engineering. I b
 
 ## Technologies
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,fastapi,nodejs,tensorflow&perline=7" alt="Mobile, backend, and AI technologies" />
-</p>
+<h3 align="center">Mobile Development</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,supabase,docker,aws,git,github,vscode,postman&perline=10" alt="Databases, cloud, and development tools" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" alt="Flutter, Dart, and Firebase" />
+</p>
+
+<h3 align="center">Backend and AI</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,tensorflow" alt="Python, FastAPI, Node.js, and TensorFlow" />
+</p>
+
+<h3 align="center">Databases and Cloud</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,supabase,aws" alt="PostgreSQL, MongoDB, SQLite, Supabase, and AWS" />
+</p>
+
+<h3 align="center">Development Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman" alt="Docker, Git, GitHub, VS Code, and Postman" />
 </p>
 
 ---
