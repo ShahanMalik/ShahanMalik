@@ -8,7 +8,7 @@ Flutter Developer • AI Engineer • Computer Science Graduate
 
 ## About Me
 
-Computer Science graduate with experience building cross-platform mobile applications, AI-powered systems, and scalable backend services. Skilled in Flutter, FastAPI, Firebase, AI agents, and real-time application development.
+Computer Science graduate with experience building cross-platform mobile applications, AI-powered systems. Skilled in Flutter, FastAPI, Firebase, AI agents, and real-time application development.
 
 ---
 
@@ -21,14 +21,7 @@ Computer Science graduate with experience building cross-platform mobile applica
 **Tools:** Git/GitHub, Docker, AWS, Android Studio, Xcode, VS Code, Cursor, Postman  
 
 ---
-
-## Projects
-
-- **Chart Swipe** — Stock discovery app with real-time market insights and financial news aggregation.  
-- **Cargoya** — Logistics and shipment tracking platform with multilingual support.  
-- **Vibe Guider** — AI-powered project advisor using LangGraph, FastAPI, and React.  
-
----
+ 
 
 ## GitHub Stats
 
