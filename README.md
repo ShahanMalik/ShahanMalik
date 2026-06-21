@@ -9,8 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ShahanMalik">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <p align="center">
+  <a href="https://huggingface.co/ShahanMalik">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square " alt="Hugging Face" />
+  </a>
   </a>
   <a href="https://www.linkedin.com/in/shahan-malik-8ba6b5253">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
