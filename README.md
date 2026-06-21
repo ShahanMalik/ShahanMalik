@@ -11,7 +11,7 @@
 <p align="center">
   <p align="center">
   <a href="https://huggingface.co/ShahanMalik">
-    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square " alt="Hugging Face" />
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=linkedin&logoColor=white" alt="Hugging Face" />
   </a>
   </a>
   <a href="https://www.linkedin.com/in/shahan-malik-8ba6b5253">
